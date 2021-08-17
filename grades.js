@@ -4,4 +4,5 @@ function gradingStudents() {
     let newGrades = grades.map(function (currentGrade) {
         console.log(currentGrade);
     });
+    console.log("hello world");
 }
